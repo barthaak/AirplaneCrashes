@@ -1,5 +1,5 @@
 # AirplaneCrashes
-Clustering airplane crashes based on summary texts
+Clustering airplane crashes based on summary texts - May 2018
 
 Kaggle dataset: https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
 
