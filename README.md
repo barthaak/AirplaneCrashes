@@ -1,4 +1,4 @@
-# AirplaneCrashes - May 2018
+# Kaggle project - May 2018
 Clustering airplane crashes based on summary texts 
 
 Kaggle dataset: https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
